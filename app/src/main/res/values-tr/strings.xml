@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TekSayfalikOdev</string>
+    <string name="welcome">Duolingoya Hoşgeldin</string>
+    <string name="altYazi">Dil öğrenmenin ücretsiz, eğlenceli ve etkili yolu!</string>
+    <string name="login">Giriş</string>
+    <string name="getStarted">Başla</string>
+</resources>
